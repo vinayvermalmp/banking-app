@@ -1,2 +1,0 @@
-# banking-app
-Microservice application 
