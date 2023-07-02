@@ -1,0 +1,7 @@
+com\inw\cards\model\Properties.class
+com\inw\cards\CardsApplication.class
+com\inw\cards\repository\CardsRepository.class
+com\inw\cards\config\CardsServiceConfig.class
+com\inw\cards\model\Cards.class
+com\inw\cards\controller\CardsController.class
+com\inw\cards\model\Customer.class

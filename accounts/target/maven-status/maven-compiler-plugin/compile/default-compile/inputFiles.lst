@@ -1,0 +1,12 @@
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\controller\AccountsController.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\config\AccountsServiceConfig.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\service\client\LoansFeignClient.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\model\Customer.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\repository\AccountsRepository.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\model\Cards.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\model\Accounts.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\model\Properties.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\model\CustomerDetails.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\AccountsApplication.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\model\Loans.java
+D:\WebApp\banking-app\accounts\src\main\java\com\inw\accounts\service\client\CardsFeignClient.java
