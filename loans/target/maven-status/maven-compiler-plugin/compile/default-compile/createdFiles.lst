@@ -1,7 +1,0 @@
-com\inw\loans\model\Properties.class
-com\inw\loans\model\Loans.class
-com\inw\loans\controller\LoansController.class
-com\inw\loans\model\Customer.class
-com\inw\loans\LoansApplication.class
-com\inw\loans\config\LoansServiceConfig.class
-com\inw\loans\repository\LoansRepository.class
