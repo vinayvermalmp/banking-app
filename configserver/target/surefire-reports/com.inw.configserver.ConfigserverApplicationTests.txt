@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.inw.configserver.ConfigserverApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.537 s - in com.inw.configserver.ConfigserverApplicationTests
