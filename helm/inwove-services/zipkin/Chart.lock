@@ -1,0 +1,6 @@
+dependencies:
+- name: inwove-common
+  repository: file://../../inwove-common
+  version: 0.1.0
+digest: sha256:b02e1753c7cb61daef7599b0a5f764b812130e04894d9f3f1f904003bfef9e51
+generated: "2023-07-04T22:03:23.8533489+05:30"

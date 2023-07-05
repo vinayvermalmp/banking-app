@@ -1,0 +1,27 @@
+dependencies:
+- name: inwove-common
+  repository: file://../../inwove-common
+  version: 0.1.0
+- name: zipkin
+  repository: file://../../inwove-services/zipkin
+  version: 0.1.0
+- name: configserver
+  repository: file://../../inwove-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../inwove-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../inwove-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../inwove-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../inwove-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../inwove-services/gatewayserver
+  version: 0.1.0
+digest: sha256:0201089d7e4dae51b530d0a3e051645c232c3933ade9fdebe2c0490f6b788359
+generated: "2023-07-04T22:50:57.7244754+05:30"
