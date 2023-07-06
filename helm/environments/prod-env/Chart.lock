@@ -5,7 +5,7 @@ dependencies:
 - name: zipkin
   repository: file://../../inwove-services/zipkin
   version: 0.1.0
-- name: configserver
+- name: server
   repository: file://../../inwove-services/configserver
   version: 0.1.0
 - name: eurekaserver
