@@ -56,7 +56,7 @@ public class AccountsController {
             return null;
         }
     }
-    @GetMapping("/accounts/c")
+    @GetMapping("/accounts/properties")
     public String getPropertyDetail() throws JsonProcessingException {
         ObjectWriter objectWriter = new ObjectMapper().writer().withDefaultPrettyPrinter();
         System.out.println(accountsServiceConfig.getMsg());

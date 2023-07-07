@@ -22,3 +22,4 @@ zipkin_enabled: false
 profile_enabled: false
 eureka_enabled: false
 appname_enabled: false
+keycloak_enabled: false

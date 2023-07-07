@@ -5,7 +5,7 @@ dependencies:
 - name: zipkin
   repository: file://../../inwove-services/zipkin
   version: 0.1.0
-- name: server
+- name: configserver
   repository: file://../../inwove-services/configserver
   version: 0.1.0
 - name: eurekaserver
@@ -24,4 +24,4 @@ dependencies:
   repository: file://../../inwove-services/gatewayserver
   version: 0.1.0
 digest: sha256:0201089d7e4dae51b530d0a3e051645c232c3933ade9fdebe2c0490f6b788359
-generated: "2023-07-04T22:50:57.7244754+05:30"
+generated: "2023-07-07T11:27:44.3931077+05:30"
